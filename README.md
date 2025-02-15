@@ -52,11 +52,6 @@ To start the application, run the following command:
 npm start
 ```
 
-## 🎥 Live Preview
-
-![App Demo](https://github.com/Rajat119/dialer-pad-task/blob/main/Dialer-app-preview.mkv)
-
-
 ## 🤝 Contributing
 Feel free to fork this repo, submit PRs, or open issues for suggestions!
 
